@@ -1,6 +1,6 @@
 # Hi, I'm Michael Khan Tal. You think it I Design it! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://unsplash.com/photos/the-numbers-2025-and-2026-on-blocks-BjB-sEsJxVo)
 
 ## About Me 🚀
 
@@ -10,8 +10,8 @@ Building sustainable innovation where technology serves people and transforms ci
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: **[michaelkhantal@gmail.com]**
+- ⚡ Fun fact: **[Play football]**
 
 ## My Skills 🧠
 
@@ -20,6 +20,8 @@ Building sustainable innovation where technology serves people and transforms ci
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Dynamic JSON](https://img.shields.io/badge/dynamic/json) 
+ 
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
@@ -39,8 +41,8 @@ Building sustainable innovation where technology serves people and transforms ci
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://sites.google.com/view/michaelkhantal/home)
-- **[LinkedIn]**(https://www.linkedin.com/in/michael-khan-tal-4b870627/)
-- **[Twitter]**(https://x.com/talsolutions4u)
+- [Personal Website / Blog](https://sites.google.com/view/michaelkhantal/home)
+- [LinkedIn](https://www.linkedin.com/in/michael-khan-tal-4b870627/)
+- [Twitter](https://x.com/talsolutions4u)
 
 
