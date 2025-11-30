@@ -1,6 +1,6 @@
 # Hi, I'm Michael Khan Tal. You think it I Design it! 👋
 
-![Banner Image](https://unsplash.com/photos/the-numbers-2025-and-2026-on-blocks-BjB-sEsJxVo)
+[Banner Image](https://unsplash.com/photos/the-numbers-2025-and-2026-on-blocks-BjB-sEsJxVo)
 
 ## About Me 🚀
 
