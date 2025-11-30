@@ -7,10 +7,10 @@
 Systems Designer | Electronics Specialist | Smart Infrastructure Innovator
 Building sustainable innovation where technology serves people and transforms cities for the better.
 
-- 🌱 Currently learning Frontend development : **[ALX AFRICA](https://www.alxafrica.com/)]**
+- 🌱 Currently learning Frontend development : **[ALX AFRICA](https://www.alxafrica.com/)**
 - 🔭 Hardware Engineer : **[APPLIED INFORMATION INC](https://appinfoinc.com/)**
-- 📫 How to reach me: **[michaelkhantal@gmail.com]**
-- ⚡ Fun fact: **[I Play football]**
+- 📫 How to reach me: **michaelkhantal@gmail.com**
+- ⚡ Fun fact: **I Play football**
 
 ## My Skills 🧠
 
