@@ -8,7 +8,7 @@ Building sustainable innovation where technology serves people and transforms ci
 - 🌱 Currently learning Frontend development @ **[ALX AFRICA](https://www.alxafrica.com/)**
 - 🔭 Hardware Engineer @ **[APPLIED INFORMATION INC](https://appinfoinc.com/)**
 - 📫 How to reach me @ **michaelkhantal@gmail.com**
-- ⚡ Fun fact @ **I Play football**
+- ⚡ Fun fact: **I Play football**
 
 ## My Skills 🧠
 
